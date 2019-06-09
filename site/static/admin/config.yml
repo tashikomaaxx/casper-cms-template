@@ -3,7 +3,7 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
-  repo: tashikomaaxx/casper-cms-template.git # Path to your Github repository
+  repo: tashikomaaxx/casper-cms-template # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
