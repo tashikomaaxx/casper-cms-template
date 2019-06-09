@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: tashikomaaxx
   repo: https://github.com/tashikomaaxx/casper-cms-template.git # Path to your Github repository
   branch: master # Branch to update (master by default)
 
