@@ -12,15 +12,14 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
+  author = "RED-ROPES"
   authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
   logo = "images/rope.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
+  githubName = "tashikomaaxx"
   twitterName = "vjeantet"
   # facebookName = ""
   # linkedinName = ""
